@@ -1,0 +1,39 @@
+body {
+    display: grid;
+    place-items: center;
+    max-width: 100%;
+    background: #ecf0f1;
+    height: auto;
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+}
+
+.tabs {
+    display: flex;
+    gap: 3.2rem;
+    text-transform: uppercase;
+    list-style: none;
+    margin-bottom: 3.2rem;
+}
+
+.tabs li {
+    cursor: pointer;
+}
+
+.menu-images {
+    display: flex;
+    gap: 3.2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.images {
+    display: none; 
+}
+
+.images img {
+    max-width: 250px;
+    height: auto;
+    border-radius: 8px;
+}
