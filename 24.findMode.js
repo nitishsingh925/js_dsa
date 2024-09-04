@@ -21,7 +21,7 @@ const findMode = (arr) => {
   return mode;
 };
 
-// Test Cases
+// Test Cases 1 , 2
 
 console.log(findMode([])); // Output: array is empty
 console.log(findMode([1, 2, 2, 3, 1, 4, 2])); // Output: 2
