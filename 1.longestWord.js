@@ -35,7 +35,7 @@ const findLongestWord = (str) => {
     current.length > longest.length ? current : longest
   );
 
-  // Use Math.max and spread syntax to find the length of the longest word
+  // Use Math.max and spread syntax 
   const maxLength = Math.max(...splitWords.map((word) => word.length));
   const longestWord3 = splitWords.find((word) => word.length === maxLength);
 
