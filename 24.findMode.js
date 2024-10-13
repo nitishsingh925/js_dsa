@@ -1,7 +1,9 @@
 /*
+
 ------------------------------------
 Programa: Find the Mode in an array
 ------------------------------------
+
 */
 
 const findMode = (arr) => {
