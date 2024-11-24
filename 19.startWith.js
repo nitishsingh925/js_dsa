@@ -1,10 +1,7 @@
 /*  
-
 ------------------------------------
 Programa: String starting starts with a spaecific substring
 ------------------------------------
-
-
 */
 
 const startsWith = (str, search) => str.startsWith(search);
