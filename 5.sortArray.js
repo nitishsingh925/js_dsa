@@ -1,10 +1,7 @@
 /*  
-
 ------------------------------------
 Programa: Sort an array  method
 ------------------------------------
-
-
 */
 
 // the function should take an array of numbers as input.
