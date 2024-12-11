@@ -4,6 +4,7 @@ Programa:  Repeat String
 ------------------------------------
 */
 
+
 const repeatString = (s, n) => {
   return s.repeat(n);
 };
