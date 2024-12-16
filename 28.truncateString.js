@@ -2,6 +2,7 @@
 ------------------------------------
 Programa:  Truncate String
 ------------------------------------
+
 */
 
 const truncateString = (str, num) => {
