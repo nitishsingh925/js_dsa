@@ -4,7 +4,6 @@
 Programa: Random Hex Color Generator
 ------------------------------------
 
-
 */
 
 const randomHexColor = () => "#" + Math.random().toString(16).slice(-6);
