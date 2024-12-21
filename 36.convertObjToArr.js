@@ -4,7 +4,6 @@
 Programa: Convert Object to Array and Vice versa
 ------------------------------------
 
-
 */
 
 const obj = {
