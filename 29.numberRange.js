@@ -1,7 +1,9 @@
 /*
+
 ------------------------------------
 Programa:  Number Range Generator
 ------------------------------------
+
 */
 
 const numberRange = (s, e) => {
