@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
+  
   const tabs = document.querySelectorAll(".tabs li");
   const gallery = document.querySelectorAll(".images");
 
