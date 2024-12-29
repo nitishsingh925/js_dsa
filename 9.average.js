@@ -7,6 +7,7 @@ Programa: Calculate the Average
 ------------------------------------
 
 
+
 */
 
 //  write a function called calulate Average that takes an array of numbers as input
