@@ -7,6 +7,7 @@ Programa:  Find the minimum value in an array
 
 
 
+
 */
 
 // write a function findmin that takes an array of numbers as input and returns the value found in the array
