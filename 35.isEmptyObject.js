@@ -4,7 +4,6 @@
 Programa:  Checking given object is empty or not
 --------------- ---------------------
 
-
 */
 
 const isEmptyObject = (obj) => Object.keys(obj).length === 0;
