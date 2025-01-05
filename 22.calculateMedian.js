@@ -5,7 +5,6 @@ Programa: Calculate Median
 ------------------------------------
 
 
-
 */
 
 // const findMedian = (arr) => {
