@@ -1,12 +1,7 @@
 /*  
-
-
 ------------------------------------
 Programa:  Is Power Of Two 
 ------------------------------------
-
-
-
 */
 
 // Write a function called isPowerOfTwo that takes an interger num as input and
