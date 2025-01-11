@@ -6,7 +6,6 @@ Programa:  Write a function to convert a string to Camel Case & Snake case
 ------------------------------------
 
 
-
 */
 
 const toCamelCase = (str) => {
