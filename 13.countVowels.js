@@ -4,7 +4,6 @@
 Programa: Count of Total Vowels
 ------------------------------------
  
-
 */
 
 // write a function that takes as input and returns ths count of vowels in that string.
