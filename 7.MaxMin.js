@@ -1,11 +1,7 @@
 /*  
-
-
 ------------------------------------
 Programa: Find Max and Find Min 
 ------------------------------------
-
-
 */
 
 // write a function findmax that takes an array of numbers as input and returns the maximum number in the array
