@@ -1,10 +1,8 @@
 /*  
 
-
 ------------------------------------
 Programa: Remove Duplicates element from given Arrays 
 ------------------------------------
-
 
 */
 // write a function that takes an arrays of intergrs as input as input and removes any duplicates elements
