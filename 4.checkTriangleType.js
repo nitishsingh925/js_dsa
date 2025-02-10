@@ -1,11 +1,7 @@
 /*  
-
 ------------------------------------
 Programa: Check Triangle Type
 ------------------------------------
-
-
-
 */
 
 // write a function called  Check Triangle Type that takes three parameters:
