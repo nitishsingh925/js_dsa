@@ -1,9 +1,7 @@
 /*
-
 ------------------------------------
 Programa:  Simple Password Validation
 ------------------------------------
-
 */
 
 // The password must be contain at least
