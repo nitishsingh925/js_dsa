@@ -1,7 +1,9 @@
 /*  
+
 ------------------------------------
 Programa:  Sum of Squares 
 ------------------------------------
+
 */
 
 //  Write a function to calculate the sum of the squares of all elements in an array.
